@@ -10,5 +10,4 @@ This project demonstrates a straightforward implementation of a pre-trained YOLO
 
 ## Requiremnt
 
-Check the requirements.txt file to download the deoendecies and 
-
+Check the 'requirements.txt' file to download the dependencies needed for this project.
